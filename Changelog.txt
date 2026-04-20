@@ -1,0 +1,5 @@
+Changelog
+
+    Converted all ModuleEngines to ModuleEnginesFX
+    Removed MiniAVC.dll
+    Reformatted the version file
