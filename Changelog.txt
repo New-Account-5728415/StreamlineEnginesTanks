@@ -43,3 +43,4 @@ Changelog
     Updated missing descriptions for various parts
     Updated missing tags for various parts
     Fixed animations for the ModuleDeployableSolarPanels with new module, ModuleAnimationInitialization
+    Added support for B9PartModule to support changable tanks
