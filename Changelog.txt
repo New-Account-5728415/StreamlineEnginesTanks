@@ -38,9 +38,11 @@ Changelog
 
     Converted all ModuleEngines to ModuleEnginesFX
     Removed MiniAVC.dll
-    Reformatted the version file
+    Reformatted and updated the version file
 
-    Updated missing descriptions for various parts
-    Updated missing tags for various parts
-    Fixed animations for the ModuleDeployableSolarPanels with new module, ModuleAnimationInitialization
+    Added missing descriptions for various parts
+    Added missing tags for various parts
+    Fixed animations for the ModuleDeployableSolarPanels with new module, ModuleAnimationInitialization, this affected 4 battery parts with deployable solar panels
     Added support for B9PartModule to support changable tanks
+
+    Added new dependency:  AnimationInitialization, needed for the deployable solar panel fix
