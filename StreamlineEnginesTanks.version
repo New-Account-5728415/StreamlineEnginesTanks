@@ -2,7 +2,12 @@
   "NAME": "Streamline - Engines RCSs and Fuel tanks",
   "URL": "https://raw.githubusercontent.com/linuxgurugamer/StreamlineEnginesTanks/refs/heads/main/StreamlineEnginesTanks.version",
   "DOWNLOAD": "https://github.com/linuxgurugamer/StreamlineEnginesTanks/releases",
-  "VERSION": {
+    "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "StreamlineEnginesTanks",
+    "ALLOW_PRE_RELEASE": false
+  },
+"VERSION": {
     "MAJOR": 1,
     "MINOR": 3,
     "PATCH": 0,
