@@ -1,5 +1,45 @@
 Changelog
 
+1.0.0
+    Initial release
+
+1.1.0
+    ------------------------- Added ----------------------------------
+
+    DTE Streamline 1-60-S "Solo" Liquid Fuel Engine - Mk1 7deg. gimbal
+    DTE Streamline S-30 "Sphere" Liquid Fuel Engine - Mk0 40deg . gimbal ( Yes 40 )
+    10 and 20 degrees slanted nose cones
+    0.625 liquid fuel tank
+    Localization support
+    Tweak Scale patches
+    AVC version
+    2 Alternative textures inside Extras folder
+    --------------------- Changed -----------------------------
+    Amount of fuel in Nose cones
+    Fuel Tanks texture layout slightly changed
+    Some other small changes
+    ----------------------- Fixed ------------------------------
+    Wrong mesh smoothing in engine fairings
+    Nose cone COM position
+
+1.2.0
+    -------------- Added ---------------
+    2.5 meter parts
+    Fuel tanks and Engines with thrust from 250 to 1500kn
+    Mk1 Adapters
+    1 - 6 side nodes with switchable variants
+    Mk1 batteries with built-in deployable solar panels
+    Aerodynamical crew tubes with lifting surface, also attach fairings for all common part sizes, docking port, decoupler and end cap
+    3 inline air intakes
+    alternative textures for Mk1 tanks available before in Extras folder now added to stock switcher
+
+1.3.0
+    Adoption by Linuxguruagmer
+
     Converted all ModuleEngines to ModuleEnginesFX
     Removed MiniAVC.dll
     Reformatted the version file
+
+    Updated missing descriptions for various parts
+    Updated missing tags for various parts
+    Fixed animations for the ModuleDeployableSolarPanels with new module, ModuleAnimationInitialization

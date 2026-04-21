@@ -1,10 +1,10 @@
 {
   "NAME": "Streamline - Engines RCSs and Fuel tanks",
-  "URL": "http://ksp-avc.cybutek.net/version.php?id=521",
-  "DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/164836-13x-streamline-engines-fueltanks-and-rcs/",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/StreamlineEnginesTanks/refs/heads/main/StreamlineEnginesTanks.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/StreamlineEnginesTanks/releases",
   "VERSION": {
     "MAJOR": 1,
-    "MINOR": 2,
+    "MINOR": 3,
     "PATCH": 0,
     "BUILD": 0
   },
