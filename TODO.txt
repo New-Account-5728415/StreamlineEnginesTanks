@@ -1,0 +1,66 @@
+I first tried without B9PS or TweakScale
+
+Rocket nozzle is white but should be gray (screenshot0):
+
+    nesdmk1solo
+    nesdmk1sphere
+
+
+
+-----------------------------------------------------------------------
+
+This is the second run with B9PS and TweakScale
+
+Danger signs don't show up on the size 0 tanks (screenshot 4):
+
+    nesdmk1lf050
+    nesdmk1oxi050
+
+
+Missing TS support: (all size2 parts, air intakes, batteries, drone core)
+
+    nesd12LFbooster
+    nesd12MPbooster
+    nesd25duet
+    nesd25trio
+    nesd25quartetX
+    nesd25quartetH
+    nesd25sextet
+    nesd25capLFO
+    nesd25capMP
+    nesdmk25ox4
+    nesdmk25lf4
+    nesdmk25ox3
+    nesdmk25lf3
+    nesdmk25mp3
+    nesdmk25ox2
+    nesdmk25lf2
+    nesdmk25mp2
+    nesdmk25ox1
+    nesdmk25lf1
+    nesdmk25mp1
+    nesdstreamwing
+    nesdmk1Int1
+    nesdmk1Int2
+    nesdmk1Int3
+    nesdmk1bat25
+    nesdmk1bat30
+    nesdmk1bat17
+    nesdmk1bat15
+    nesdmk1bat10
+    nesdmk1bat5c
+    nesdmk1bat5n
+    nesdmk1drone17
+
+Addressed, not going to change:
+The size 1 engines all seem to have room for at least 2 Oscar-b tanks between the nozzles (screenshot 3), but \
+seem to have their volume only determined by the engine placement.
+
+
+
+The B9 fuel switcher doesn't have a no-weight-added structural option.
+
+edit: A lot of the descriptions could use a round of editing.
+
+=======
+

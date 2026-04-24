@@ -46,3 +46,51 @@ Changelog
     Added support for B9PartModule to support changable tanks
 
     Added new dependency:  AnimationInitialization, needed for the deployable solar panel fix
+
+1.3.0.1
+    Thanks to forum user @QuadrilateralsAreCool for pointing out the issues fixed in the following:
+        Fixed node sizes for all the following parts:
+            Set size 2 for top and bottom:
+                nesdmk25ox4
+                nesdmk25lf4
+                nesdmk25ox3
+                nesdmk25mp3
+                nesdmk25lf2
+                nesdmk25ox2
+                nesdmk25mp2
+                nesdmk25ox1
+                nesdmk25lf1
+                nesdmk25mp1
+            Set size 1 for top node:
+                nesd12LFbooster
+            Set size 0 for top and bottom:
+                nesdmk1oxi050
+                nesdmk1lf050
+            Set Front/top node to size 0:
+                nesdmk1Int1
+                nesdmk1StrRCS1
+        Fixed the bulkhead profiles for the following parts:
+            Set bulkhead profile to srf for:
+                nesdmk1StrRCS4
+            Set bulkhead profile to size 0 for:
+                nesdmk1sphere
+                nesdmk1Int1
+            Set bulkhead profile to size 1 for:
+                nesd12LFbooster
+                nesd12MPbooster
+        Fixed the descriptions which were incorrect:
+            nesdmk1Int2 
+            nesdmk1solo 
+        Fixed missing B9 switches for the following:
+            nesd25capLFO
+            nesd25duet
+            nesd25trio
+            nesd25quartetX
+            nesd25quartetH
+        Disabled the following part when B9 is installed:         
+            nesd25capMP (monoprop tank, duplicates the nesd25capLFO when B9 is installed)
+        Rotated the following parts to match the other tubes:
+            nesdstrTubeCap
+            nesdstrTubeFaiM
+            nesdstrTubeDec
+            nesdstrTubeDock
